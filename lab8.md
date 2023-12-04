@@ -1,5 +1,5 @@
 
-##1-Student message
+## 1-Student message
 
 Hello, for the past lab, I made the grade.sh script and it works when I try it on my computer. This is the script on my computer:
 ![Image](mine.png)
@@ -47,17 +47,17 @@ fi
 
 ```
 
-##2-TA reply
+## 2-TA reply
 You're right! look at line 3 in your script. Week 4 lab might be helful to check out to help you recognize your mistake.
 It might be a good idea to upload your projects to the remote server so that you can be sure that your sumbissions work correctly.
 
-##3-Student reply
+## 3-Student reply
 found the mistake! I used the double quotations marks (") which work on windows, but not on mac or linux systems. I also used a semi-colon
 instead of a colon for the same reason. Here is my script running correctly on the server:
 
 ![Image](works.png)
 
-##4-Info
+## 4-Info
 
 file structure:
 -TestExamples.java
@@ -148,7 +148,7 @@ Since this is a script and not a java file, I did not use jdb debugging to solve
 
 The edited part: ".;lib/hamcrest-core-1.3.jar;lib/junit-4.13.2.jar" to '.:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar'
 
-##Part 2
+## Part 2
 I learned many skills during the second half. I learned about scripts and how to create our own tests so that we can test any program, even using a link for a program that is not on our device.
 Another essential skill I learned was debugging code using jdb. It is a very useful skill that one can use from any device, since it doesn't require one to download any additional program on the device. 
 

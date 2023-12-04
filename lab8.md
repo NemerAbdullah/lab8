@@ -61,12 +61,19 @@ instead of a colon for the same reason. Here is my script running correctly on t
 
 file structure:
 -TestExamples.java
+
 -Server.java
+
 -GradeServer.java
+
 -lib
+
 --hamcrest-core-1.3.jar
+
 --junit-4.13.2.jar
+
 -the graded assignment link: https://github.com/ucsd-cse15l-f22/list-methods-corrected
+
 
 contents before the fix of the script:
 ```
